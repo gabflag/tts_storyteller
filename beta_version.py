@@ -272,7 +272,7 @@ class TtsApp(QWidget):
         super().__init__()
 
         # Tamanho da janela e título
-        self.setWindowTitle("StoryTeller TTS")
+        self.setWindowTitle("TTS StoryTeller")
         self.resize(800, 800)
         
         # Layout principal com abas
